@@ -31,7 +31,7 @@ public class LoginStep {
 	@Then("^user should be successfully logged in$")
 	public void user_should_be_successfully_logged_in() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("Login Successfull");
+		System.out.println("Login Successfull---pushing FreshCode");
 	}
 	
 }
